@@ -13,7 +13,7 @@ public class Autor {
 	
 	
 	
-	
+	//hola amifos 
 	public Autor(int idAutor, String nombre, String apellido, String pais, String direccion, String telefono,
 			String correo) {
 
